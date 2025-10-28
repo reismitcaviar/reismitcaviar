@@ -24,10 +24,9 @@ Nothing to see here. 👻
 ![Static Badge](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)
 ![Static Badge](https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
 
-## Into WebDev
+## WebDev
 
 ![Static Badge](https://img.shields.io/badge/html-e54c21?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/html-e54c21?style=for-the-badge&logo=html5&logoColor=e54c21&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/css-1e3fda?style=for-the-badge&logo=css&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-f7e025?style=for-the-badge&logo=javascript&logoColor=f7e025&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=787cb4&labelColor=black)

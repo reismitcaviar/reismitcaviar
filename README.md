@@ -8,12 +8,9 @@
 🧳 Traveling
 
 I'm an IT specialist trainee from Germany. Newbie, not really experienced. Try to learn new stuff every day.
-
 I will to use my GitHub more to improve documentation skills and and getting comfortable with Git.
 
-I like gaming, more competitive, sometimes Minecraft or Diablo.
-
-Also, I like cats! 🐈
+I like gaming, more competitive, sometimes Minecraft or Diablo. Also, I like cats! 🐈
 
 ---
 

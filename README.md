@@ -1,7 +1,5 @@
 # ✨ About me 👀
 
----
-
 ## Who am I?
 
 📍 Germany  

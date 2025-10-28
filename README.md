@@ -3,7 +3,7 @@
 ## Who am I?
 
 📍 Germany
-![Static Badge](https://img.shields.io/badge/Germany-grey?style=social&label=%F0%9F%93%8D&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Germany-grey?style=flat&label=%F0%9F%93%8D&labelColor=black)
 
 👨‍💻 IT specialist  
 🎮 Gaming  

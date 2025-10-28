@@ -2,12 +2,10 @@
 
 ## Who am I?
 
-📍 Germany
 ![Static Badge](https://img.shields.io/badge/Germany-grey?style=flat&label=%F0%9F%93%8D&labelColor=black)
-
-👨‍💻 IT specialist  
-🎮 Gaming  
-🧳 Traveling
+![Static Badge](https://img.shields.io/badge/IT--Specialist-grey?style=flat&label=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Gaming-grey?style=flat&label=%F0%9F%8E%AE&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Travelling-grey?style=flat&label=%F0%9F%A7%B3&labelColor=black)
 
 Well... all my friends call me Fox, since the day I got a computer..
 

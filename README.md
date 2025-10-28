@@ -22,8 +22,10 @@ Nothing to see here. 👻
 
 In Progress... 🏗
 
-![Static Badge](https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/linux-f5be04?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)
+![Static Badge](https://img.shields.io/badge/proxmox-e57000?style=for-the-badge&logo=proxmox&logoColor=e57000&labelColor=black&messageColor=black)
+
 ![Static Badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-darkblue?style=for-the-badge&logo=css&logoColor=white)

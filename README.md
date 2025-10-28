@@ -20,9 +20,9 @@ Nothing to see here. 👻
 
 ## 💻 Tech Stack (more like, what I want to learn or improve in)
 
-![Static Badge](https://img.shields.io/badge/linux-f5be04?style=for-the-badge&logo=linux&logoColor=black)
-![Static Badge](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)
-![Static Badge](https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox&logoColor=e6522c)
+![Static Badge](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/powershell-012456?style=for-the-badge&labelColor=black)
 
 ## WebDev

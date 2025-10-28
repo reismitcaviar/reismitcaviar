@@ -14,7 +14,7 @@ I will to use my GitHub more to improve documentation skills and and getting com
 
 I like gaming, more competitive, sometimes Minecraft or Diablo. Also, I like cats! 🐈
 
-# 💬 My Socials
+## 💬 My Socials
 
 Nothing to see here. 👻
 

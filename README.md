@@ -22,6 +22,8 @@ Nothing to see here. 👻
 
 In Progress... 🏗
 
+![Static Badge](https://img.shields.io/badge/docker-blue?style=flat-square&logo=docker&logoSize=auto)
+
 <!--
 **reismitcaviar/reismitcaviar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

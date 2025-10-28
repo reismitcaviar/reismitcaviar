@@ -28,7 +28,7 @@ Nothing to see here. 👻
 ## WebDev
 
 ![Static Badge](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-2b41d8?style=for-the-badge&logo=css)
 ![Static Badge](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=777bb4&labelColor=black)
 

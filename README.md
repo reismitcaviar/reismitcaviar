@@ -2,9 +2,9 @@
 
 ## Who am I?
 
-📍 Germany
-👨‍💻 IT specialist
-🎮 Gaming
+📍 Germany  
+👨‍💻 IT specialist  
+🎮 Gaming  
 🧳 Traveling
 
 I'm an IT specialist trainee from Germany. Newbie, not really experienced. Try to learn new stuff every day.

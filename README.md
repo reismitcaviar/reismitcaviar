@@ -7,18 +7,16 @@
 🎮 Gaming  
 🧳 Traveling
 
+Well... all my friends call me Fox, since the day I got a computer..
+
 I'm an IT specialist trainee from Germany. Newbie, not really experienced. Try to learn new stuff every day.
 I will to use my GitHub more to improve documentation skills and and getting comfortable with Git.
 
 I like gaming, more competitive, sometimes Minecraft or Diablo. Also, I like cats! 🐈
 
----
-
-## 💬 My Socials
+# 💬 My Socials
 
 Nothing to see here. 👻
-
----
 
 ## 💻 Tech Stack (more like, what I want to learn or improve in)
 

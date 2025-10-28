@@ -1,22 +1,29 @@
-# About me 👀
+# ✨ About me 👀
 
 ## Who am I?
 
-I'm an IT specialist trainee. Newbie, not really experienced. Try to learn new stuff every day.
+📍 Germany
+👨‍💻 IT specialist
+🎮 Gaming
+🧳 Traveling
+
+I'm an IT specialist trainee from Germany. Newbie, not really experienced. Try to learn new stuff every day.
 
 I will to use my GitHub more to improve documentation skills and and getting comfortable with Git.
 
 I like gaming, more competitive, sometimes Minecraft or Diablo.
 
+Also, I like cats! 🐈
+
 ---
 
-## My Socials
+## 💬 My Socials
 
 Nothing to see here. 👻
 
 ---
 
-## Tech Stack (more like, what I want to learn or improve in)
+## 💻 Tech Stack (more like, what I want to learn or improve in)
 
 In Progress... 🏗
 

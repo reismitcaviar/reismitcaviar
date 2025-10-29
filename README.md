@@ -25,7 +25,7 @@ Nothing to see here. 👻
 ![Static Badge](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/powershell-012456?style=for-the-badge&labelColor=black)
 
-## WebDev
+## 🌐 WebDev
 
 ![Static Badge](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-2b41d8?style=for-the-badge&logo=css)
@@ -34,7 +34,7 @@ Nothing to see here. 👻
 
 ---
 
-In Progress... 🏗
+🚧 In Progress... 🏗
 
 <!--
 **reismitcaviar/reismitcaviar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
